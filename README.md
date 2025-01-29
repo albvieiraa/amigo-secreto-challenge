@@ -31,7 +31,7 @@ O foco principal foi a implementação da lógica em **JavaScript**, utilizando 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/albvieiraa/amigo-secreto-challenge.git
 
 2. Abra o arquivo `index.html` no seu navegador web.
 
